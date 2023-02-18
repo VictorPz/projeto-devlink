@@ -43,7 +43,7 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 
 <table>
     <thead>
-        <center><b>Desktop</b>
+        <b>Desktop</b>
     </thread>
     <thead>
         <td>
@@ -77,7 +77,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O DevLinks é um agregador de links para usar como cartão de visitas online.
 
-- [Acesse o projeto finalizado, online](https://maykbrito.github.io/devlinks)
+- [Veja como ficou o meu projeto!](https://victorpz.github.io/projeto-devlink)
+
+- [Acesse o projeto da aula finalizado, online](https://maykbrito.github.io/devlinks)
 
 - [Assistir aulas](https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito)
 
